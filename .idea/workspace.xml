@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c4718e2-a5d6-4efa-b45b-d61325d21775" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/heroes/MainHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heroes/NecronomiconCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heroes/UilksAndMauson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Climb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Explore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Knowledge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/places/GeographicNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/places/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/places/Mountains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/places/Place.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/HouseIsLockedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/HouseIsLockedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/KhowlegeNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/KnowledgeNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heroes/Creator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heroes/Traveller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heroes/Traveller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/BeInsane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/SetAGoal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/SetAGoal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +60,8 @@
       <workItem from="1702651750102" duration="2481000" />
       <workItem from="1702656598529" duration="1396000" />
       <workItem from="1702917166334" duration="9571000" />
+      <workItem from="1702928662348" duration="15000" />
+      <workItem from="1703502048341" duration="708000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1702652960278</created>
@@ -84,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702652960278</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1702928671942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702928671942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -13,9 +13,10 @@ public class Main {
         System.out.println(house + mainHero.climb() + "и" + mainHero.explore() + house.untilLastCorner() + ".");
         mainHero.knowSomething(house.getKnowledge());
         try {
-            mainHero.almostBelieve(mainHero.destined(), GeographicNames.LENG);
+            mainHero.almostBelieve(mainHero.destined(), Math.random() < 0.3 ? GeographicNames.HIGHLANDS : GeographicNames.LENG);
         } catch (KnowledgeNotFoundException knowledgeNotFoundException) {
-            System.out.println(knowledgeNotFoundException.getMessage());
+            System.err.println(knowledgeNotFoundException.getMessage());
+            return;
         }
         new Mountains().description();
         new UilksAndMauson().seeTheMountains(GeographicNames.SOUTH_POLAR_CIRCLE);
